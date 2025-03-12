@@ -1,2 +1,2 @@
 # pvgen
-Pretty performant PDF parsers &amp; parts generator
+Pretty performant PDF parser and parts generator
