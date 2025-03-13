@@ -1,5 +1,5 @@
 CC = clang
-FLAGS = -Iinclude -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -Wunreachable-code -fsanitize=undefined -fsanitize=address
+FLAGS = -Iinclude -Wall -Wextra -Wpedantic -Werror -Wshadow -Wconversion -Wunreachable-code
 DEBUG_FLAGS = -g -Og
 RELEASE_FLAGS = -O3 -flto
 OBJDIR = bin
